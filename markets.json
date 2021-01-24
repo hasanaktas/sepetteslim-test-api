@@ -1,0 +1,91 @@
+{
+  "categories": [
+    {
+      "name": {
+        "tr": "İndirimdekiler",
+        "en": "Discounts"
+      },
+      "image": "https://cdn-photo.pivol.com/16686/imgs/081220181112072346195.jpg"
+    },
+    {
+      "name": {
+        "tr": "Meyve & Sebze",
+        "en": "Fruits & Vegetables"
+      },
+      "image": "https://i12.haber7.net//haber/haber7/photos/2020/14/mevsiminde_beslenmenin_onemi_ve_nisan_ayinda_tuketilmesi_gereken_sebze_ve_meyveler_nelerdir_1585810736_2142.jpg"
+    },
+    {
+      "name": {
+        "tr": "Fırından",
+        "en": "From the oven"
+      },
+      "image": "https://besthqwallpapers.com/Uploads/10-9-2017/20206/thumb2-bread-wheat-bakery-products-wheat-grains-autumn.jpg"
+    },
+    {
+      "name": {
+        "tr": "Et & Şarküteri",
+        "en": "Meat"
+      },
+      "image": "https://www.fethiyerehberi.com/wp-content/uploads/dogal-et-sarkuteri.cropped.702x460.jpg"
+    },
+    {
+      "name": {
+        "tr": "Temel Gıda",
+        "en": "Basic Food"
+      },
+      "image": "https://www.domatessuyu.com/wp-content/uploads/2020/12/temel-gidalar.jpeg"
+    }
+  ],
+  "shops": [
+    {
+      "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062012/untitled-1_73.png?itok=FEiUk9ek",
+      "name": {
+        "tr": "Panora Market",
+        "en": "Panora Market"
+      },
+      "minimumOrder": 20,
+      "star": 4.6,
+      "deliveryTime": "20-30"
+    },
+    {
+      "logo": "https://www.kanyon.com.tr/assets/img/kanyon-logo@2x.png",
+      "name": {
+        "tr": "Kanyon Market",
+        "en": "Kanyon Market"
+      },
+      "minimumOrder": 25,
+      "star": 4.6,
+      "deliveryTime": "30-45"
+    },
+    {
+      "logo": "https://cdn.freelogovectors.net/wp-content/uploads/2020/02/neo-logo-coin.png",
+      "name": {
+        "tr": "Neo Market",
+        "en": "Neo Market"
+      },
+      "minimumOrder": 35,
+      "star": 4.5,
+      "deliveryTime": "20-30"
+    },
+    {
+      "logo": "https://png.pngtree.com/template/20191111/ourmid/pngtree-mv-vm-letter-vector-logo-image_332121.jpg",
+      "name": {
+        "tr": "Merinos Market",
+        "en": "Merinos Market"
+      },
+      "minimumOrder": 35,
+      "star": 4.5,
+      "deliveryTime": "20-30"
+    },
+    {
+      "logo": "https://www.logolynx.com/images/logolynx/e5/e505c075eef59083f1129059e1c34791.jpeg",
+      "name": {
+        "tr": "Cinar Market",
+        "en": "Cinar Market"
+      },
+      "minimumOrder": 35,
+      "star": 4.5,
+      "deliveryTime": "20-30"
+    }
+  ]
+}
