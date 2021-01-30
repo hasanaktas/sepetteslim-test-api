@@ -1,0 +1,320 @@
+{
+  "markets": {
+    "sliders": [
+      {
+        "imageUrl": {
+          "en": "https://i.ibb.co/PchGqG9/Slider-1.jpg",
+          "tr": "https://i.ibb.co/PchGqG9/Slider-1.jpg"
+        },
+        "type": "image"
+      },
+      {
+        "imageUrl": {
+          "en": "https://i.ibb.co/PchGqG9/Slider-1.jpg",
+          "tr": "https://i.ibb.co/PchGqG9/Slider-1.jpg"
+        },
+        "type": "image"
+      },
+      {
+        "imageUrl": {
+          "en": "https://i.ibb.co/PchGqG9/Slider-1.jpg",
+          "tr": "https://i.ibb.co/PchGqG9/Slider-1.jpg"
+        },
+        "type": "image"
+      }
+    ],
+    "categories": [
+      {
+        "id": 0,
+        "name": {
+          "tr": "İndirimdekiler",
+          "en": "Discounts"
+        },
+        "imageUrl": {
+          "tr": "https://cdn-photo.pivol.com/16686/imgs/081220181112072346195.jpg",
+          "en": "https://cdn-photo.pivol.com/16686/imgs/081220181112072346195.jpg"
+        }
+      },
+      {
+        "id": 1,
+        "name": {
+          "tr": "Meyve & Sebze",
+          "en": "Fruits & Vegetables"
+        },
+        "imageUrl": {
+          "tr": "https://i12.haber7.net//haber/haber7/photos/2020/14/mevsiminde_beslenmenin_onemi_ve_nisan_ayinda_tuketilmesi_gereken_sebze_ve_meyveler_nelerdir_1585810736_2142.jpg",
+          "en": "https://i12.haber7.net//haber/haber7/photos/2020/14/mevsiminde_beslenmenin_onemi_ve_nisan_ayinda_tuketilmesi_gereken_sebze_ve_meyveler_nelerdir_1585810736_2142.jpg"
+        }
+      },
+      {
+        "id": 2,
+        "name": {
+          "tr": "Fırından",
+          "en": "From the oven"
+        },
+        "imageUrl": {
+          "tr": "https://besthqwallpapers.com/Uploads/10-9-2017/20206/thumb2-bread-wheat-bakery-products-wheat-grains-autumn.jpg",
+          "en": "https://besthqwallpapers.com/Uploads/10-9-2017/20206/thumb2-bread-wheat-bakery-products-wheat-grains-autumn.jpg"
+        }
+      },
+      {
+        "id": 3,
+        "name": {
+          "tr": "Et & Şarküteri",
+          "en": "Meat"
+        },
+        "imageUrl": {
+          "tr": "https://www.fethiyerehberi.com/wp-content/uploads/dogal-et-sarkuteri.cropped.702x460.jpg",
+          "en": "https://www.fethiyerehberi.com/wp-content/uploads/dogal-et-sarkuteri.cropped.702x460.jpg"
+        }
+      },
+      {
+        "id": 4,
+        "name": {
+          "tr": "Temel Gıda",
+          "en": "Basic Food"
+        },
+        "imageUrl": {
+          "tr": "https://www.domatessuyu.com/wp-content/uploads/2020/12/temel-gidalar.jpeg",
+          "en": "https://www.domatessuyu.com/wp-content/uploads/2020/12/temel-gidalar.jpeg"
+        }
+      }
+    ],
+    "shops": [
+      {
+        "name": {
+          "tr": "Panora Market",
+          "en": "Panora Market"
+        },
+        "imageUrl": {
+          "tr": "https://media-cdn.t24.com.tr/media/library/2019/11/1574408090239-2207761-720-x-360.jpg",
+          "en": "https://media-cdn.t24.com.tr/media/library/2019/11/1574408090239-2207761-720-x-360.jpg"
+        },
+        "categories": [0, 1, 2, 3, 4],
+        "minimumOrder": 20,
+        "star": 4.6,
+        "deliveryTime": "20-30",
+        "liked": true
+      },
+      {
+        "name": {
+          "tr": "Kanyon Market",
+          "en": "Kanyon Market"
+        },
+        "imageUrl": {
+          "tr": "https://www.eray.com.tr/wp-content/uploads/2020/02/market-barkod-sistemi-eray-com-tr--1110x630.jpg",
+          "en": "https://www.eray.com.tr/wp-content/uploads/2020/02/market-barkod-sistemi-eray-com-tr--1110x630.jpg"
+        },
+        "categories": [2, 3, 4],
+        "minimumOrder": 25,
+        "star": 4.6,
+        "deliveryTime": "30-45",
+        "liked": true
+      },
+      {
+        "name": {
+          "tr": "Neo Market",
+          "en": "Neo Market"
+        },
+        "imageUrl": {
+          "tr": "https://www.modernraf.com.tr/uploads/blogs/market-raf-sistemijpg-800x400.jpeg",
+          "en": "https://www.modernraf.com.tr/uploads/blogs/market-raf-sistemijpg-800x400.jpeg"
+        },
+        "categories": [0, 2, 3, 4],
+        "minimumOrder": 35,
+        "star": 4.5,
+        "deliveryTime": "20-30",
+        "liked": false
+      },
+      {
+        "name": {
+          "tr": "Merinos Market",
+          "en": "Merinos Market"
+        },
+        "imageUrl": {
+          "tr": "https://urunfiyatlari.com/wp-content/uploads/2021/01/file-market-maaslari.jpg",
+          "en": "https://urunfiyatlari.com/wp-content/uploads/2021/01/file-market-maaslari.jpg"
+        },
+        "categories": [0, 1, 2],
+        "minimumOrder": 35,
+        "star": 4.5,
+        "deliveryTime": "20-30",
+        "liked": false
+      },
+      {
+        "name": {
+          "tr": "Cinar Market",
+          "en": "Cinar Market"
+        },
+        "imageUrl": {
+          "tr": "https://rafturk.com.tr/wp-content/uploads/2018/09/duvar-featured-600x300.jpg",
+          "en": "https://rafturk.com.tr/wp-content/uploads/2018/09/duvar-featured-600x300.jpg"
+        },
+        "categories": [1, 2, 3, 4],
+        "minimumOrder": 35,
+        "star": 4.5,
+        "deliveryTime": "20-30",
+        "liked": true
+      }
+    ]
+  },
+  "restaurants": {
+    "sliders": [
+      {
+        "imageUrl": {
+          "tr": "https://i.ibb.co/4dHn26c/Slider-1.jpg",
+          "en": "https://i.ibb.co/4dHn26c/Slider-1.jpg"
+        },
+        "type": "image"
+      },
+      {
+        "imageUrl": {
+          "tr": "https://i.ibb.co/4dHn26c/Slider-1.jpg",
+          "en": "https://i.ibb.co/4dHn26c/Slider-1.jpg"
+        },
+        "type": "image"
+      },
+      {
+        "imageUrl": {
+          "tr": "https://i.ibb.co/4dHn26c/Slider-1.jpg",
+          "en": "https://i.ibb.co/4dHn26c/Slider-1.jpg"
+        },
+        "type": "image"
+      }
+    ],
+    "categories": [
+      {
+        "id": 0,
+        "name": {
+          "tr": "Pide",
+          "en": "Discounts"
+        },
+        "imageUrl": {
+          "tr": "https://im.haberturk.com/2019/10/30/ver1572512151/acik-pide_2535762_1200x627.jpg",
+          "en": "https://im.haberturk.com/2019/10/30/ver1572512151/acik-pide_2535762_1200x627.jpg"
+        }
+      },
+      {
+        "id": 1,
+        "name": {
+          "tr": "Kebap",
+          "en": "Fruits & Vegetables"
+        },
+        "imageUrl": {
+          "tr": "https://cdn.yemek.com/mnresize/940/940/uploads/2014/08/kasibeyaz-bosphorus-subat-2020.jpg",
+          "en": "https://cdn.yemek.com/mnresize/940/940/uploads/2014/08/kasibeyaz-bosphorus-subat-2020.jpg"
+        }
+      },
+      {
+        "id": 2,
+        "name": {
+          "tr": "Pizza",
+          "en": "From the oven"
+        },
+        "imageUrl": {
+          "tr": "https://i4.hurimg.com/i/hurriyet/75/750x422/5d25cdf967b0a90c800e1e4d.jpg",
+          "en": "https://i4.hurimg.com/i/hurriyet/75/750x422/5d25cdf967b0a90c800e1e4d.jpg"
+        }
+      },
+      {
+        "id": 3,
+        "name": {
+          "tr": "Çiğ Köfte",
+          "en": "Meat"
+        },
+        "imageUrl": {
+          "tr": "https://www.noktabursa.com.tr/wp-content/uploads/2020/03/cig-kofte-tarifi-6.jpg",
+          "en": "https://www.noktabursa.com.tr/wp-content/uploads/2020/03/cig-kofte-tarifi-6.jpg"
+        }
+      },
+      {
+        "id": 4,
+        "name": {
+          "tr": "Tatlı",
+          "en": "Basic Food"
+        },
+        "imageUrl": {
+          "tr": "https://www.pakmayaprofesyonellerdunyasi.com/uploads/Tarif/baklava.jpg",
+          "en": "https://www.pakmayaprofesyonellerdunyasi.com/uploads/Tarif/baklava.jpg"
+        }
+      }
+    ],
+    "shops": [
+      {
+        "name": {
+          "tr": "Meşhur Mahmut Usta",
+          "en": "Meşhur Mahmut Usta"
+        },
+        "imageUrl": {
+          "tr": "https://cdn.yemek.com/mnresize/940/940/uploads/2014/08/kasibeyaz-bosphorus-subat-2020.jpg",
+          "en": "https://cdn.yemek.com/mnresize/940/940/uploads/2014/08/kasibeyaz-bosphorus-subat-2020.jpg"
+        },
+        "categories": [1, 2, 3, 4],
+        "minimumOrder": 20,
+        "star": 4.6,
+        "deliveryTime": "20-30",
+        "liked": false
+      },
+      {
+        "name": {
+          "tr": "Gece Aspava",
+          "en": "Gece Aspava"
+        },
+        "imageUrl": {
+          "tr": "https://img.acunn.com/foto/1200x675/uploads/icerikler/2020/10/10/adana-kebap-tarifi15839585245f820001272d7.jpg",
+          "en": "https://img.acunn.com/foto/1200x675/uploads/icerikler/2020/10/10/adana-kebap-tarifi15839585245f820001272d7.jpg"
+        },
+        "categories": [0, 2, 3],
+        "minimumOrder": 25,
+        "star": 4.6,
+        "deliveryTime": "30-45",
+        "liked": true
+      },
+      {
+        "name": {
+          "tr": "Pizza Il Forno",
+          "en": "Pizza Il Forno"
+        },
+        "imageUrl": {
+          "tr": "https://i4.hurimg.com/i/hurriyet/75/750x0/5a4c8002c9de3d11988cab81",
+          "en": "https://i4.hurimg.com/i/hurriyet/75/750x0/5a4c8002c9de3d11988cab81"
+        },
+        "categories": [0, 1, 2, 3, 4],
+        "minimumOrder": 35,
+        "star": 4.5,
+        "deliveryTime": "20-30",
+        "liked": false
+      },
+      {
+        "name": {
+          "tr": "Big Baker",
+          "en": "Big Baker"
+        },
+        "imageUrl": {
+          "tr": "https://4.bp.blogspot.com/-8BlepyOezUw/XIwlG4SiiRI/AAAAAAAAaxM/3f5Ndv6_bWEFshg0hui2eLtjxkOTNVezwCLcBGAs/s1600/big-baker-fiyatlar.jpg",
+          "en": "https://4.bp.blogspot.com/-8BlepyOezUw/XIwlG4SiiRI/AAAAAAAAaxM/3f5Ndv6_bWEFshg0hui2eLtjxkOTNVezwCLcBGAs/s1600/big-baker-fiyatlar.jpg"
+        },
+        "categories": [3, 4],
+        "minimumOrder": 35,
+        "star": 4.5,
+        "deliveryTime": "20-30",
+        "liked": false
+      },
+      {
+        "imageUrl": {
+          "tr": "https://www.cigkoftecierkanusta.com/images/about-2.jpg",
+          "en": "https://www.cigkoftecierkanusta.com/images/about-2.jpg"
+        },
+        "name": {
+          "tr": "Komagene Çiğ Köfte",
+          "en": "Komagene Çiğ Köfte"
+        },
+        "categories": [0],
+        "minimumOrder": 35,
+        "star": 4.5,
+        "deliveryTime": "20-30",
+        "liked": true
+      }
+    ]
+  }
+}
