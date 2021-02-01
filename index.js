@@ -1,9 +1,12 @@
 const express = require("express");
 const app = express();
+const cors = require("cors");
 const port = process.env.PORT || 3000;
 const restaurants = require("./restaurants.json");
 const markets = require("./markets.json");
 const shops = require("./shops.json");
+
+app.use(cors());
 
 app.get("/", (req, res) => {
   res.send("Sepetteslim Test Api by Hasan Aktas!");
