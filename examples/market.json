@@ -1,4 +1,11 @@
 {
+  "name": {
+    "tr": "Panora Market",
+    "en": "Panora Market"
+  },
+  "minimumOrder": 20,
+  "logoUrl": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/062012/untitled-1_73.png",
+  "star": 9.1,
   "categories": [
     {
       "id": 0,
