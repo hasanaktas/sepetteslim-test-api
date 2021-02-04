@@ -82,6 +82,7 @@
     ],
     "shops": [
       {
+        "id": 100,
         "name": {
           "tr": "Panora Market",
           "en": "Panora Market"
@@ -94,9 +95,11 @@
         "minimumOrder": 20,
         "star": 4.6,
         "deliveryTime": "20-30",
-        "liked": true
+        "liked": true,
+        "open": true
       },
       {
+        "id": 101,
         "name": {
           "tr": "Kanyon Market",
           "en": "Kanyon Market"
@@ -109,9 +112,11 @@
         "minimumOrder": 25,
         "star": 4.6,
         "deliveryTime": "30-45",
-        "liked": true
+        "liked": true,
+        "open": true
       },
       {
+        "id": 102,
         "name": {
           "tr": "Neo Market",
           "en": "Neo Market"
@@ -124,9 +129,11 @@
         "minimumOrder": 35,
         "star": 4.5,
         "deliveryTime": "20-30",
-        "liked": false
+        "liked": false,
+        "open": true
       },
       {
+        "id": 103,
         "name": {
           "tr": "Merinos Market",
           "en": "Merinos Market"
@@ -139,9 +146,11 @@
         "minimumOrder": 35,
         "star": 4.5,
         "deliveryTime": "20-30",
-        "liked": false
+        "liked": false,
+        "open": false
       },
       {
+        "id": 104,
         "name": {
           "tr": "Cinar Market",
           "en": "Cinar Market"
@@ -154,7 +163,8 @@
         "minimumOrder": 35,
         "star": 4.5,
         "deliveryTime": "20-30",
-        "liked": true
+        "liked": true,
+        "open": false
       }
     ]
   },
@@ -241,6 +251,7 @@
     ],
     "shops": [
       {
+        "id": 200,
         "name": {
           "tr": "Meşhur Mahmut Usta",
           "en": "Meşhur Mahmut Usta"
@@ -253,9 +264,11 @@
         "minimumOrder": 20,
         "star": 4.6,
         "deliveryTime": "20-30",
-        "liked": false
+        "liked": false,
+        "open": true
       },
       {
+        "id": 201,
         "name": {
           "tr": "Gece Aspava",
           "en": "Gece Aspava"
@@ -268,9 +281,11 @@
         "minimumOrder": 25,
         "star": 4.6,
         "deliveryTime": "30-45",
-        "liked": true
+        "liked": true,
+        "open": true
       },
       {
+        "id": 202,
         "name": {
           "tr": "Pizza Il Forno",
           "en": "Pizza Il Forno"
@@ -283,9 +298,11 @@
         "minimumOrder": 35,
         "star": 4.5,
         "deliveryTime": "20-30",
-        "liked": false
+        "liked": false,
+        "open": true
       },
       {
+        "id": 203,
         "name": {
           "tr": "Big Baker",
           "en": "Big Baker"
@@ -298,9 +315,11 @@
         "minimumOrder": 35,
         "star": 4.5,
         "deliveryTime": "20-30",
-        "liked": false
+        "liked": false,
+        "open": false
       },
       {
+        "id": 204,
         "imageUrl": {
           "tr": "https://www.cigkoftecierkanusta.com/images/about-2.jpg",
           "en": "https://www.cigkoftecierkanusta.com/images/about-2.jpg"
@@ -313,7 +332,8 @@
         "minimumOrder": 35,
         "star": 4.5,
         "deliveryTime": "20-30",
-        "liked": true
+        "liked": true,
+        "open": false
       }
     ]
   }
