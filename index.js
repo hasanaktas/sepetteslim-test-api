@@ -6,6 +6,7 @@ const restaurants = require("./restaurants.json");
 const markets = require("./markets.json");
 const shops = require("./shops.json");
 const exampleMarket = require("./examples/market.json");
+const exampleShops = require("./examples/shops.json");
 app.use(cors());
 
 app.get("/", (req, res) => {
@@ -26,6 +27,11 @@ app.get("/shops", (req, res) => {
 
 app.get("/market", (req, res) => {
   res.send(exampleMarket);
+});
+
+app.get("/shops/:id", (req, res) => {
+  const id = req.params.id;
+  res.send(exampleShops[id]);
 });
 
 app.listen(port, () => {
