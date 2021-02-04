@@ -91,7 +91,7 @@
           "tr": "https://media-cdn.t24.com.tr/media/library/2019/11/1574408090239-2207761-720-x-360.jpg",
           "en": "https://media-cdn.t24.com.tr/media/library/2019/11/1574408090239-2207761-720-x-360.jpg"
         },
-        "categories": [0, 1, 2, 3, 4],
+        "categories": [2, 3, 4],
         "minimumOrder": 20,
         "star": 4.6,
         "deliveryTime": "20-30",
