@@ -5,7 +5,7 @@ const port = process.env.PORT || 3000;
 const restaurants = require("./restaurants.json");
 const markets = require("./markets.json");
 const shops = require("./shops.json");
-
+const exampleMarket = require("./examples/market.json");
 app.use(cors());
 
 app.get("/", (req, res) => {
@@ -22,6 +22,10 @@ app.get("/restaurants", (req, res) => {
 
 app.get("/shops", (req, res) => {
   res.send(shops);
+});
+
+app.get("/market", (req, res) => {
+  res.send(exampleMarket);
 });
 
 app.listen(port, () => {

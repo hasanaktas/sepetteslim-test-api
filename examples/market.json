@@ -1,0 +1,405 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": {
+        "tr": "Fırından",
+        "en": "Oven"
+      },
+      "photoUrl": {
+        "tr": "https://www.taskentekmek.com.tr/images/firin-icsayfa.png",
+        "en": "https://www.taskentekmek.com.tr/images/firin-icsayfa.png"
+      },
+      "subCategories": [
+        {
+          "id": 10,
+          "name": {
+            "tr": "Ekmek",
+            "en": "Bread"
+          },
+          "products": [
+            {
+              "id": 100,
+              "name": {
+                "tr": "Sofra Ekmek",
+                "en": "Table Bread"
+              },
+              "photos": [
+                {
+                  "url": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/05120001/05120001-016753-1650x1650.jpg"
+                }
+              ],
+              "stock": 10,
+              "price": 1.85,
+              "description": "",
+              "liked": false
+            },
+            {
+              "id": 101,
+              "name": {
+                "tr": "Uno Premium Çok Tahıllı ve Siyez Buğdaylı Ekmek 350 G",
+                "en": "Uno Premium Multi Grain and Siyez Wheat Bread 350 G"
+              },
+              "photos": [
+                {
+                  "url": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/05057076/05057076-025e57-1650x1650.jpg"
+                },
+                {
+                  "url": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/05057076/05057076_yan-c1ad56-1650x1650.jpg"
+                }
+              ],
+              "stock": 5,
+
+              "price": 9.45,
+              "description": "",
+              "liked": true
+            },
+            {
+              "id": 102,
+              "name": {
+                "tr": "Unabella Ponçik Ekmek 200 G",
+                "en": "Unabella Ponchik Bread 200 G"
+              },
+              "photos": [
+                {
+                  "url": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/05054750/05054750-b48bc7-1650x1650.jpg"
+                }
+              ],
+              "stock": 5,
+              "price": 12.5,
+              "description": "",
+              "liked": false
+            },
+            {
+              "id": 103,
+              "name": {
+                "tr": "Etimek Tuzsuz Kızarmış Ekmek 148 G",
+                "en": "Etimek Unsalted Toasted Bread 148 G"
+              },
+              "photos": [
+                {
+                  "url": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/05050995/05050995-ceba30-1650x1650.jpg"
+                }
+              ],
+              "stock": 5,
+              "price": 4.75,
+              "description": "",
+              "liked": true
+            },
+            {
+              "id": 104,
+              "name": {
+                "tr": "Etimek Klasik Kızarmış Ekmek 143 G",
+                "en": "Etimek Classic Toasted Bread 143 G"
+              },
+              "photos": [
+                {
+                  "url": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/05050996/05050996-ed4018-1650x1650.jpg"
+                }
+              ],
+              "stock": 5,
+              "price": 4.75,
+              "description": "",
+              "liked": false
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 2,
+      "name": {
+        "tr": "Süt & Kahvaltılık",
+        "en": "Milk & Breakfast"
+      },
+      "photoUrl": {
+        "tr": "https://i.pinimg.com/originals/e9/6c/5d/e96c5d6ddbef5890d8d852973509e286.jpg",
+        "en": "https://i.pinimg.com/originals/e9/6c/5d/e96c5d6ddbef5890d8d852973509e286.jpg"
+      },
+      "subCategories": [
+        {
+          "id": 20,
+          "name": {
+            "tr": "Uzun Ömürlü Süt",
+            "en": "Long Life Milk"
+          },
+          "products": [
+            {
+              "id": 200,
+              "name": {
+                "tr": "Pınar Cafe Art Latte 500 Ml",
+                "en": "Pınar Cafe Art Latte 500 Ml"
+              },
+              "photos": [
+                {
+                  "url": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/11019005/11019005-1178c5.jpg"
+                }
+              ],
+              "stock": 10,
+              "price": 9.2,
+              "description": "",
+              "liked": false
+            },
+            {
+              "id": 201,
+              "name": {
+                "tr": "Sek Süt 1 L",
+                "en": "Sek Milk 1 L"
+              },
+              "photos": [
+                {
+                  "url": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/11012000/11012000-ad06f1.jpg"
+                }
+              ],
+              "stock": 10,
+              "price": 7.45,
+              "description": "",
+              "liked": true
+            },
+            {
+              "id": 202,
+              "name": {
+                "tr": "İçim Süt 4X1 L",
+                "en": "İçim Milk 4X1 L"
+              },
+              "photos": [
+                {
+                  "url": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/11013024/11013024-92938a.jpg"
+                }
+              ],
+              "stock": 10,
+              "price": 27.75,
+              "description": "",
+              "liked": true
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "name": {
+            "tr": "Peynir",
+            "en": "Cheese"
+          },
+          "products": [
+            {
+              "id": 300,
+              "name": {
+                "tr": "İçim Taze Kaşar Peyniri 700 G",
+                "en": "İçim Fresh Cheddar Cheese 700 G"
+              },
+              "photos": [
+                {
+                  "url": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/10108647/10108647-b9bf91.jpg"
+                }
+              ],
+              "stock": 1,
+              "price": 34.75,
+              "description": "",
+              "liked": false
+            },
+            {
+              "id": 301,
+              "name": {
+                "tr": "Muratbey Burgu Peyniri 200 G",
+                "en": "Muratbey Burgu Cheese 200 G"
+              },
+              "photos": [
+                {
+                  "url": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/10403370/10403370-0896c4.jpg"
+                }
+              ],
+              "stock": 5,
+              "price": 13.95,
+              "description": "",
+              "liked": true
+            },
+            {
+              "id": 302,
+              "name": {
+                "tr": "İçim Labne Peynir 400 G",
+                "en": "İçim Labneh Cheese 400 G"
+              },
+              "photos": [
+                {
+                  "url": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/10302018/10302018-fdbca7.jpg"
+                }
+              ],
+              "stock": 5,
+              "price": 15.95,
+              "description": "",
+              "liked": false
+            },
+            {
+              "id": 303,
+              "name": {
+                "tr": "Pınar Beyaz 200 G",
+                "en": "Pınar White 200 G"
+              },
+              "photos": [
+                {
+                  "url": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/10350010/10350010-a0ecfd.jpg"
+                }
+              ],
+              "stock": 5,
+              "price": 11.95,
+              "description": "",
+              "liked": true
+            },
+            {
+              "id": 304,
+              "name": {
+                "tr": "Torku Süzme Peynir 450 G",
+                "en": "Torku Filtered Cheese 450 G"
+              },
+              "photos": [
+                {
+                  "url": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/10019074/torku-suzme-peynir-450-gr-a87c50.jpg"
+                }
+              ],
+              "stock": 5,
+              "price": 14.95,
+              "description": "",
+              "liked": false
+            },
+            {
+              "id": 305,
+              "name": {
+                "tr": "Sütaş Süzme Peynir 250 G",
+                "en": "Sütaş Cottage Cheese 250 G"
+              },
+              "photos": [
+                {
+                  "url": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/10017205/sutas-suzme-peynir-250-gr-d51e94.jpg"
+                }
+              ],
+              "stock": 5,
+              "price": 9.9,
+              "description": "",
+              "liked": false
+            },
+            {
+              "id": 306,
+              "name": {
+                "tr": "Bahçıvan Lezzetli Peynir Topları 200 G",
+                "en": "Gardener Delicious Cheese Balls 200 G"
+              },
+              "photos": [
+                {
+                  "url": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/10406104/10406104-ec8072.jpg"
+                }
+              ],
+              "stock": 5,
+              "price": 16.45,
+              "description": "",
+              "liked": false
+            },
+            {
+              "id": 307,
+              "name": {
+                "tr": "İçim Labne 3X180 G",
+                "en": "İçim Labne 3X180 G"
+              },
+              "photos": [
+                {
+                  "url": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/10302045/10302045-8838f9.jpg"
+                }
+              ],
+              "stock": 5,
+              "price": 24.95,
+              "description": "",
+              "liked": false
+            },
+            {
+              "id": 308,
+              "name": {
+                "tr": "Torku Labne 400 G",
+                "en": "Torku Labne 400 G"
+              },
+              "photos": [
+                {
+                  "url": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/10302031/10302031-c02e12.jpg"
+                }
+              ],
+              "stock": 5,
+              "price": 17.95,
+              "description": "",
+              "liked": false
+            },
+            {
+              "id": 309,
+              "name": {
+                "tr": "Tahsildaroğlu Eski Kaşar 350 G",
+                "en": "Tahsildaroğlu Old Cheddar 350 G"
+              },
+              "photos": [
+                {
+                  "url": "https://migros-dali-storage-prod.global.ssl.fastly.net/sanalmarket/product/10103651/10103651-c066da.jpg"
+                }
+              ],
+              "stock": 5,
+              "price": 45.9,
+              "description": "",
+              "liked": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": {
+        "tr": "Dondurma",
+        "en": "Ice cream"
+      },
+      "photoUrl": {
+        "tr": "https://cdn.yemek.com/mnresize/940/940/uploads/2019/06/sade-dondurma-tarifi.jpg",
+        "en": "https://cdn.yemek.com/mnresize/940/940/uploads/2019/06/sade-dondurma-tarifi.jpg"
+      }
+    },
+    {
+      "id": 4,
+      "name": {
+        "tr": "Atıştırmalık",
+        "en": "Snack"
+      },
+      "photoUrl": {
+        "tr": "https://i4.hurimg.com/i/hurriyet/75/750x422/5ca48a0c67b0a931bc1e5fd2.jpg",
+        "en": "https://i4.hurimg.com/i/hurriyet/75/750x422/5ca48a0c67b0a931bc1e5fd2.jpg"
+      }
+    },
+    {
+      "id": 5,
+      "name": {
+        "tr": "Temel Gıda",
+        "en": "Basic Food"
+      },
+      "photoUrl": {
+        "tr": "https://www.kibarinternethabergazetesi.com/images/haberler/2021/02/son-bir-yilda-onceki-yillara-gore-temel-gida-alisverisinde-yukselme-var.jpg",
+        "en": "https://www.kibarinternethabergazetesi.com/images/haberler/2021/02/son-bir-yilda-onceki-yillara-gore-temel-gida-alisverisinde-yukselme-var.jpg"
+      }
+    },
+    {
+      "id": 6,
+      "name": {
+        "tr": "Su",
+        "en": "Water"
+      },
+      "photoUrl": {
+        "tr": "https://i2.milimaj.com/i/milliyet/75/0x410/5ca7566e45d2a02864d931dc.jpg",
+        "en": "https://i2.milimaj.com/i/milliyet/75/0x410/5ca7566e45d2a02864d931dc.jpg"
+      }
+    },
+    {
+      "id": 7,
+      "name": {
+        "tr": "İçecekler",
+        "en": "Beverages"
+      },
+      "photoUrl": {
+        "tr": "https://foto.haberler.com/haber/2019/07/12/gazli-icecek-icenlere-kanser-konusunda-kotu-h-12236189_o.jpg",
+        "en": "https://foto.haberler.com/haber/2019/07/12/gazli-icecek-icenlere-kanser-konusunda-kotu-h-12236189_o.jpg"
+      }
+    }
+  ]
+}
