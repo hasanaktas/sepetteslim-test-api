@@ -10,7 +10,7 @@ const exampleShops = require("./examples/shops.json");
 app.use(cors());
 
 app.get("/", (req, res) => {
-  res.send("Sepetteslim Test Api by Hasan Aktas!");
+  res.send("Sepetteslim Test Api by Hasan berk!");
 });
 
 app.get("/markets", (req, res) => {
